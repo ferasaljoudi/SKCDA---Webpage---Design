@@ -39,6 +39,33 @@ The purpose of this project is to design and develop a fully functional website 
 <br>
 
 <div style="width: 100%;">
+    <a href="#"><img src="./readmeSetup/techStack.svg" style="width: 100%"></a>
+</div>
+
+<h3 align = "center">👩‍💻 Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+<h2></h2>
+
+<h3 align="center">🚀 Development Tools & Environments</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+</p>
+
+<h2></h2>
+
+<h3 align="center">💡 3D Modeling and Animation Softwares</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+<br>
+
+<div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/intendedAudience.svg" style="width: 100%"></a>
 </div>
 
@@ -52,8 +79,7 @@ The purpose of this project is to design and develop a fully functional website 
 - Fresh graduates from post-secondary
 - Professionals looking for CCDP designation
 
-<p><i><strong>Carryover</strong></i> audience who are:</p>
-
+<i><strong>Carryover</strong></i> audience who are:
 - Board members
 - Members
 - Volunteers including professionals, employers etc.
@@ -105,6 +131,7 @@ The purpose of this project is to design and develop a fully functional website 
 <div align="center">
   <a href="#"><img src="./readmeSetup/images/certificate.jpg" width="99%"></a>
 </div>
+
 <br>
 
 <div style="width: 100%;">
@@ -129,7 +156,6 @@ The purpose of this project is to design and develop a fully functional website 
 <h2></h2>
 
 - Third Stage </a> &rarr; <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Comments%20and%20Feedback%20Documents/Peer-Feedback-On-First-HiFi-Prototype.pdf">Feedback</a>
-
     - <a href = "https://www.figma.com/proto/zOJRMy3C2Slym02MmBwCZk/Untitled?type=design&node-id=40-1402&scaling=contain&page-id=0%3A1&starting-point-node-id=40%3A1402">Medium Fidelity Prototype </a>
     - <a href = "https://www.figma.com/proto/S01HX3KxAzEDu5BLuYyV1W/Untitled?type=design&node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">High Fidelity Prototype </a>
     - <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Diagrams/User%20Story%20Map's/User%20story%20map%202.pdf">USM</a>
@@ -137,5 +163,4 @@ The purpose of this project is to design and develop a fully functional website 
 <h2></h2>
 
 - Fourth Stage </a> &rarr; <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Comments%20and%20Feedback%20Documents/Customers-Feedback-On-Final-Product-Delivery.pdf">Feedback</a>
-
     - <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Project%20Day%20Deliverables%20and%20Report/Aeoniums%20Final%20Report.pdf ">Final Report </a>
