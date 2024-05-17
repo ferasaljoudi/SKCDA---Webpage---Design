@@ -79,15 +79,12 @@
           flex-direction: column;
         }
 
-        ul {
+        .items p {
           font-size: 14px;
           line-height: 26px;
           color: #8B4513;
           font-weight: 700;
           font-family: "Open Sans", sans-serif;
-        }
-
-        ul li {
           display: flex;
           letter-spacing: 0.125vw;
         }
@@ -98,12 +95,8 @@
         <span><em>skcda web application</em></span>
       </h1>
       <section class='items'>
-        <ul>
-          <li>A Web Application designed for SKCDA</li>
-        </ul>
-        <ul>
-          <li>(Saskatchewan Career Development Association)</li>
-        </ul>
+        <p>A Web Application designed for SKCDA</p>
+        <p>(Saskatchewan Career Development Association)</p>
       </section>
     </div>
   </foreignObject>
