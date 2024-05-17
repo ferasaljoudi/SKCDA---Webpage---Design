@@ -1,8 +1,7 @@
 <div style="width: 100%;">
-    <a href="#"><img src="./readmeSetup//welcome.svg" style="width: 100%"></a>
+    <a href="#"><img src="./readmeSetup/welcome.svg" style="width: 100%"></a>
 </div>
 
-<br>
 <br>
 
 <div style="width: 100%;">
@@ -16,28 +15,26 @@
 </div>
 
 <br>
-<br>
-
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/projectOverview.svg" style="width: 100%"></a>
 </div>
+<br>
 
 <p>
 The purpose of this project is to design and develop a fully functional website for the <a href = "http://www.skcda.ca/">Saskatchewan Career Development Association (SKCDA)</a>, a professional, non-profit (voluntary) association dedicated to supporting Career Development Practitioners (CDPs) working across Saskatchewan. Our goal is to create an engaging and informative website that effectively advocates for the field of career development, fosters networking opportunities among CDPs, and provides valuable professional development activities for the association's members.
 </p>
 
 <br>
-
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/contributors.svg" style="width: 100%"></a>
 </div>
+<br>
 
 - <a href = "https://github.com/BinaryQuBit">Amandip Padda</a>
 - <a href = "https://github.com/ferasaljoudi">Feras Aljoudi</a>
 - <a href = "https://github.com/muhammadt1">Muhammad Tariq</a>
 
 <br>
-
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/techStack.svg" style="width: 100%"></a>
 </div>
@@ -64,11 +61,10 @@ The purpose of this project is to design and develop a fully functional website 
 </p>
 
 <br>
-
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/intendedAudience.svg" style="width: 100%"></a>
 </div>
-
+<br>
 <p>
     The website we are designing for the Saskatchewan Career Development Association (SKCDA) will cater to the following:
 </p>
@@ -85,10 +81,10 @@ The purpose of this project is to design and develop a fully functional website 
 - Volunteers including professionals, employers etc.
 
 <br>
-
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/focus.svg" style="width: 100%"></a>
 </div>
+<br>
 
 - Focus on encouraging people to join as members
 - Enhance UI Experience
@@ -97,10 +93,10 @@ The purpose of this project is to design and develop a fully functional website 
 - Up-to-date events, conferences, podcast (news type banner)
 
 <br>
-
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/assumptions.svg" style="width: 100%"></a>
 </div>
+<br>
 
 - Driving <a href = "https://wordpress.com/">Wordpress</a> as Content Management Tool
 - Available resources such as images, content, videos etc.
@@ -108,10 +104,10 @@ The purpose of this project is to design and develop a fully functional website 
 - Design implementation based on Northstar users
 
 <br>
-
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/constraints.svg" style="width: 100%"></a>
 </div>
+<br>
 
 - Getting approval to use content from other related provincial associations
 - Getting approval to use content from previous <a href = "http://www.skcda.ca/">website</a>
@@ -119,10 +115,10 @@ The purpose of this project is to design and develop a fully functional website 
 - Budgeting constraint
 
 <br>
-
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/results.svg" style="width: 100%"></a>
 </div>
+<br>
 
 - Our project's success led to SKCDA selecting our team for hire
 - Out of Amandip Padda, Feras Aljoudi and Muhammad Tariq, the contract was given to Amandip Padda
@@ -133,10 +129,10 @@ The purpose of this project is to design and develop a fully functional website 
 </div>
 
 <br>
-
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/resources.svg" style="width: 100%"></a>
 </div>
+<br>
 
 - <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Design%20Ideas/Design-Ideas-for-LowFi.pdf">Design Implementation for Low Fidelity </a> (3 Topics)
 - <a href = "https://github.com/BinaryQuBit/SKCDA---Webpage---Design/blob/main/Documents/Design%20Ideas/Design-Ideas-for-HiFi.pdf">Design Implementation for High Fidelity </a> (3 Topics)
