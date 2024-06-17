@@ -39,26 +39,41 @@ The purpose of this project is to design and develop a fully functional website 
     <a href="#"><img src="./readmeSetup/techStack.svg" style="width: 100%"></a>
 </div>
 
-<h3 align = "center">👩‍💻 Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+<h2 align = "center">👨‍💻 Languages</h2>
 
-<h2></h2>
+<div align="center">
+<table>
+  <tr>
+    <td>
+        <a href="https://www.w3schools.com/js/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/javaScript.svg" alt="JavaScript"></a>
+    </td>
+    <td>
+        <a href="https://html.com/html5/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Middle/html5.svg" alt="HTML5"></a>
+      <br>
+    </td>
+    <td>
+        <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Right/css.svg" alt="CSS"></a>
+      <br>
+    </td>
+  </tr>
+</table>
+</div>
 
-<h3 align="center">🚀 Development Tools & Environments</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-</p>
+<h2 align = "center">🌐 Web Development</h2>
 
-<h2></h2>
-
-<h3 align="center">💡 3D Modeling and Animation Softwares</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
+<div align = "center">
+<table>
+  <tr>
+    <td>
+      <a href="https://wordpress.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Middle/wordpress.svg" alt="WordPress"></a>
+      <br>
+    </td>
+    <td>
+      <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/figma.svg" alt="Figma"></a>
+    </td>
+  </tr>
+</table>
+</div>
 
 <br>
 <div style="width: 100%;">
