@@ -74,6 +74,7 @@ The purpose of this project is to design and develop a fully functional website 
     <a href="#"><img src="./readmeSetup/intendedAudience.svg" style="width: 100%"></a>
 </div>
 <br>
+
 <p>
     The website we are designing for the Saskatchewan Career Development Association (SKCDA) will cater to the following:
 </p>
