@@ -46,14 +46,10 @@ The purpose of this project is to design and develop a fully functional website 
   <tr>
     <td>
         <a href="https://www.w3schools.com/js/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/javaScript.svg" alt="JavaScript"></a>
-    </td>
-    <td>
+        <br>
         <a href="https://html.com/html5/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Middle/html5.svg" alt="HTML5"></a>
-      <br>
-    </td>
-    <td>
+        <br>
         <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Right/css.svg" alt="CSS"></a>
-      <br>
     </td>
   </tr>
 </table>
@@ -67,8 +63,6 @@ The purpose of this project is to design and develop a fully functional website 
     <td>
       <a href="https://wordpress.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Middle/wordpress.svg" alt="WordPress"></a>
       <br>
-    </td>
-    <td>
       <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/figma.svg" alt="Figma"></a>
     </td>
   </tr>
